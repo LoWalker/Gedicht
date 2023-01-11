@@ -3,7 +3,10 @@ Farbpalette
 
 Rot
 Grün
+Hellgrün
+Dunkelgrün
 Blau
 Gelb
 Magenta
+
 Sind alles tolle farben
